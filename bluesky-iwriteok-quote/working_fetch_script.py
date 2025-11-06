@@ -40,8 +40,11 @@ def get_profile(handle: str) -> Optional[Dict]:
         url = f"{BASE_URL}/app.bsky.actor.getProfile"
         params = {'actor': handle}
         headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
             'Accept': 'application/json',
+            'Accept-Language': 'en-US,en;q=0.9',
+            'Origin': 'https://bsky.app',
+            'Referer': 'https://bsky.app/',
         }
 
         response = requests.get(url, params=params, headers=headers, timeout=10)
@@ -61,8 +64,11 @@ def get_author_feed(actor_did: str, limit: int = 100, cursor: Optional[str] = No
             params['cursor'] = cursor
 
         headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
             'Accept': 'application/json',
+            'Accept-Language': 'en-US,en;q=0.9',
+            'Origin': 'https://bsky.app',
+            'Referer': 'https://bsky.app/',
         }
 
         response = requests.get(url, params=params, headers=headers, timeout=10)
