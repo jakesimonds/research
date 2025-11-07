@@ -12,9 +12,12 @@
 
 This is your complete guide to Devconnect Buenos Aires, curated specifically for your interests in **social protocols, developer infrastructure, and "building blocks for free"** like Farcaster, ATProto, Nostr, and similar technologies.
 
+**✨ ALL FILES NOW INCLUDE DIRECT LUMA/REGISTRATION LINKS!** Click to RSVP instantly.
+
 ### 📄 Files
 
 1. **`recommended-events.md`** - Complete list of 50+ events with detailed descriptions
+   - **Direct Luma & registration links for every event**
    - Organized by day (Nov 17-22)
    - Rated by priority for your interests
    - Top 10 must-attend events highlighted

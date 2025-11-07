@@ -6,107 +6,108 @@ Use this to track which events you've RSVP'd to. Check the official calendar at 
 
 ## 🔥 MUST RSVP - Top Priority (10 events)
 
-- [ ] **Waku P2P Privacy Hacker Lounge** - Nov 22, 4:00-16:00
-- [ ] **Agents Day** - Nov 17, 9:00-18:00
-- [ ] **trustless://eil** - Nov 18, 9:00-18:00
-- [ ] **Trustless Agent Day** - Nov 21, 10:00-16:00
-- [ ] **zkID and Client-Side Proving Day** - Nov 18, 9:00-18:00
-- [ ] **Money Rails** - Nov 18, 11:00-18:00
-- [ ] **Agentic Zero** - Nov 20, 9:00-18:00
-- [ ] **WalletCon** - Nov 20, 7:00-15:00
-- [ ] **zkTLS Day** - Nov 19, 10:00-17:00
-- [ ] **Ethereum Privacy Stack** - Nov 21, 11:00-18:00
+- [ ] **Waku P2P Privacy Hacker Lounge** - Nov 22, 4:00-16:00 | https://luma.com/mcodb4f7
+- [ ] **Agents Day** - Nov 17, 9:00-18:00 | https://luma.com/agentsday-argentina
+- [ ] **trustless://eil** - Nov 18, 9:00-18:00 | https://trustlessconference.com/
+- [ ] **Trustless Agent Day** - Nov 21, 10:00-16:00 | https://luma.com/i1vu0n7p
+- [ ] **zkID and Client-Side Proving Day** - Nov 18, 9:00-18:00 | https://pse.dev/
+- [ ] **Money Rails** - Nov 18, 11:00-18:00 | https://moneyrails.io/
+- [ ] **Agentic Zero** - Nov 20, 9:00-18:00 | http://agenticzero.xyz/
+- [ ] **WalletCon** - Nov 20, 7:00-15:00 | https://lu.ma/walletconbuenosaires
+- [ ] **zkTLS Day** - Nov 19, 10:00-17:00 | https://tlsnotary.org/zktls-day/
+- [ ] **Ethereum Privacy Stack** - Nov 21, 11:00-18:00 | https://eps25.web3privacy.info/
 
 ---
 
 ## ⭐ High Priority (15 events)
 
-- [ ] **Ethereum Day & Opening Ceremony** - Nov 17, 7:00-18:33
-- [ ] **Frontier Forum** - Nov 17, 15:00-21:30
-- [ ] **DePIN Day** - Nov 18, 10:00-18:30
-- [ ] **Web3Design UX Unconference** - Nov 18, 6:00-18:00
-- [ ] **trustless://interop.landscape** - Nov 19, 9:00-18:00
-- [ ] **Encryption Day** - Nov 19, 9:00-20:00
-- [ ] **Verifying Intelligence** - Nov 19, 6:30-12:30
-- [ ] **AdoptionCon** - Nov 19, 10:00-17:00
-- [ ] **EthClient Summit** - Nov 20, 9:00-17:00
-- [ ] **Schelling Point** - Nov 20, 10:00-16:00
-- [ ] **EIP Summit** - Nov 21, 9:30-13:00
-- [ ] **ZK Real World Summit** - Nov 21, 10:00-19:00
-- [ ] **Ethproofs Day** - Nov 22, 10:00-18:00
-- [ ] **BuidlGuidl's Builder Bootcamp** - Nov 18-21, 10:00-17:30 (4 days)
-- [ ] **ETHGlobal Buenos Aires** - Nov 21-23 (hackathon)
+- [ ] **Ethereum Day & Opening Ceremony** - Nov 17, 7:00-18:33 | https://ethday.devconnect.org
+- [ ] **Frontier Forum** - Nov 17, 15:00-21:30 | https://luma.com/sy8xe86a
+- [ ] **DePIN Day** - Nov 18, 10:00-18:30 | https://luma.com/depin-day-ba
+- [ ] **Web3Design UX Unconference** - Nov 18, 6:00-18:00 | https://ux.web3.design/
+- [ ] **trustless://interop.landscape** - Nov 19, 9:00-18:00 | https://trustlessconference.com/
+- [ ] **Encryption Day** - Nov 19, 9:00-20:00 | https://luma.com/e9ces3lr
+- [ ] **Verifying Intelligence** - Nov 19, 6:30-12:30 | Check https://devconnect.org/calendar
+- [ ] **AdoptionCon** - Nov 19, 10:00-17:00 | https://luma.com/adoptcon25
+- [ ] **EthClient Summit** - Nov 20, 9:00-17:00 | Check https://devconnect.org/calendar
+- [ ] **Schelling Point** - Nov 20, 10:00-16:00 | https://luma.com/txyeg96m
+- [ ] **EIP Summit** - Nov 21, 9:30-13:00 | Check https://devconnect.org/calendar
+- [ ] **ZK Real World Summit** - Nov 21, 10:00-19:00 | https://zkmonk.org/devconnect-summit
+- [ ] **Ethproofs Day** - Nov 22, 10:00-18:00 | https://luma.com/ethproofs_day
+- [ ] **BuidlGuidl's Builder Bootcamp** - Nov 18-21, 10:00-17:30 (4 days) | https://devconnect.buidlguidl.com/
+- [ ] **ETHGlobal Buenos Aires** - Nov 21-23 (hackathon) | https://ethglobal.com/events/buenosaires
 
 ---
 
 ## 💡 Interesting/Optional (30+ events)
 
 ### Monday Nov 17
-- [ ] The Privacy Salon - 14:00-18:00
-- [ ] Builder Nights Buenos Aires - 14:00-20:00
-- [ ] Buenos Railes: RAILGUN Private Party - Evening
-- [ ] The Zama World's Fair - 18:00-23:00
+- [ ] The Privacy Salon - 14:00-18:00 | Check https://devconnect.org/calendar
+- [ ] Builder Nights Buenos Aires - 14:00-20:00 | https://luma.com/bnbuenoaires
+- [ ] Buenos Railes: RAILGUN Private Party - Evening | Check https://devconnect.org/calendar
+- [ ] The Zama World's Fair - 18:00-23:00 | Check https://devconnect.org/calendar
 
 ### Tuesday Nov 18
-- [ ] Solidity Summit - 9:00-17:00
-- [ ] App Town Hall - 10:00-18:00
-- [ ] EthStaker's Staking Gathering - 9:00-22:00
-- [ ] ZKONNECT by Brevis - 13:00-18:00
-- [ ] EPF Day - 10:00-18:00
-- [ ] Confidential Token Workshop - 14:00-17:00
-- [ ] Agents Unleashed - 17:00-20:59
-- [ ] ETHCON ARGENTINA - 9:00-19:00
-- [ ] Bankless Summit - 10:00-18:00
-- [ ] Sky Connect - 19:00-23:59
-- [ ] THE CAPITAL LAYER - 16:00-19:00
-- [ ] SENSEI MAGIC - 10:00-20:00
+- [ ] Solidity Summit - 9:00-17:00 | https://soliditylang.org/summit/
+- [ ] App Town Hall - 10:00-18:00 | https://worldofapps.wtf/
+- [ ] EthStaker's Staking Gathering - 9:00-22:00 | https://ethstaker.org/events/staking-gathering-2025/
+- [ ] ZKONNECT by Brevis - 13:00-18:00 | Check https://devconnect.org/calendar
+- [ ] EPF Day - 10:00-18:00 | Included in Devconnect ticket
+- [ ] Confidential Token Workshop - 14:00-17:00 | Check https://devconnect.org/calendar
+- [ ] Agents Unleashed - 17:00-20:59 | Check https://devconnect.org/calendar
+- [ ] ETHCON ARGENTINA - 9:00-19:00 | https://ethcon.ar/
+- [ ] Bankless Summit - 10:00-18:00 | https://luma.com/0ph1qg6c
+- [ ] Sky Connect - 19:00-23:59 | https://www.foodconnect.fun/
+- [ ] THE CAPITAL LAYER - 16:00-19:00 | Check https://devconnect.org/calendar
+- [ ] SENSEI MAGIC - 10:00-20:00 | Check https://devconnect.org/calendar
 
 ### Wednesday Nov 19
-- [ ] Gov3 Summit - 9:00-12:00
-- [ ] D/acc Day - All day
-- [ ] Newtro and Whabbit: Creator Economy - 9:30-17:30
-- [ ] Games & Storytelling - 14:00-18:00
-- [ ] Funding the Commons - 5:00-15:00
-- [ ] ArbiVerse - 13:00-21:00
-- [ ] DuneCon25 - 5:00-19:00
-- [ ] Security Connect - 9:00-13:00
-- [ ] Casa ZK Institutional Day - 11:30-16:00
-- [ ] DeFi Day del Sur - 12:00-17:00
-- [ ] Chainlink House - 11:00-20:00
-- [ ] Whitepaper Reading Sessions - 7:00-12:30
+- [ ] Gov3 Summit - 9:00-12:00 | Check https://devconnect.org/calendar
+- [ ] D/acc Day - All day | Check https://devconnect.org/calendar
+- [ ] Newtro and Whabbit: Creator Economy - 9:30-17:30 | Check https://devconnect.org/calendar
+- [ ] Games & Storytelling - 14:00-18:00 | Check https://devconnect.org/calendar
+- [ ] Funding the Commons - 5:00-15:00 | https://www.fundingthecommons.io/ba2025
+- [ ] ArbiVerse - 13:00-21:00 | https://luma.com/ArbiVerseBuenosAires
+- [ ] DuneCon25 - 5:00-19:00 | https://dune.com/dunecon
+- [ ] Security Connect - 9:00-13:00 | Check https://devconnect.org/calendar
+- [ ] Casa ZK Institutional Day - 11:30-16:00 | Check https://devconnect.org/calendar
+- [ ] DeFi Day del Sur - 12:00-17:00 | Check https://devconnect.org/calendar
+- [ ] Chainlink House - 11:00-20:00 | Check https://devconnect.org/calendar
+- [ ] Whitepaper Reading Sessions - 7:00-12:30 | Check https://devconnect.org/calendar
 
 ### Thursday Nov 20
-- [ ] Zero to Dapp Workshop - 9:00-18:00
-- [ ] NoirCon3 - 10:00-16:00
-- [ ] DeFi Today - 10:00-17:00
-- [ ] StarkConnect - 10:00-21:00
-- [ ] DIA Infra Gardens V8 - All day
-- [ ] Ethereum Culture Day - 14:00-19:00
-- [ ] DeFi Security Summit (Day 2) - 9:00-19:00
-- [ ] Pragma Buenos Aires - 7:00-17:30
-- [ ] Crecimiento Regulation Day - 9:00-18:00
+- [ ] Zero to Dapp Workshop - 9:00-18:00 | Check https://devconnect.org/calendar
+- [ ] NoirCon3 - 10:00-16:00 | Included in Devconnect ticket
+- [ ] DeFi Today - 10:00-17:00 | https://www.defi-today.xyz/
+- [ ] StarkConnect - 10:00-21:00 | Check https://devconnect.org/calendar
+- [ ] DIA Infra Gardens V8 - All day | Check https://devconnect.org/calendar
+- [ ] Ethereum Culture Day - 14:00-19:00 | Check https://devconnect.org/calendar
+- [ ] DeFi Security Summit (Day 2) - 9:00-19:00 | https://defisecuritysummit.org/
+- [ ] Pragma Buenos Aires - 7:00-17:30 | https://ethglobal.com/events/pragma-buenosaires
+- [ ] Crecimiento Regulation Day - 9:00-18:00 | Check https://devconnect.org/calendar
 
 ### Friday Nov 21
-- [ ] FoundersConnect - 14:15-18:00
-- [ ] H.E.R. DAO Brunch - 10:00-14:00
-- [ ] DeFi Security Summit (Day 3) - 9:00-19:00
+- [ ] FoundersConnect - 14:15-18:00 | Check https://devconnect.org/calendar
+- [ ] H.E.R. DAO Brunch - 10:00-14:00 | https://luma.com/ly9vj2e4
+- [ ] DeFi Security Summit (Day 3) - 9:00-19:00 | https://defisecuritysummit.org/
 
 ### Saturday Nov 22
-- [ ] Applications to FHE - 9:00-12:30
-- [ ] Obfuscation Day - 14:00-18:00
-- [ ] Bridge Atlas - 10:00-17:00
-- [ ] Ethereum Community Hangout - 14:00-17:00
-- [ ] Closing Happy Hour - 17:00-19:00
-- [ ] Decentraland Music Festival Party - 17:00-01:00
+- [ ] Applications to FHE - 9:00-12:30 | Check https://devconnect.org/calendar
+- [ ] Obfuscation Day - 14:00-18:00 | Check https://devconnect.org/calendar
+- [ ] Bridge Atlas - 10:00-17:00 | https://ticketh.xyz/sop/bridge-atlas/
+- [ ] Ethereum Community Hangout - 14:00-17:00 | Check https://devconnect.org/calendar
+- [ ] Closing Happy Hour - 17:00-19:00 | Check https://devconnect.org/calendar
+- [ ] Decentraland Music Festival Party - 17:00-01:00 | https://lu.ma/yf87sbxk
 
 ---
 
 ## 🎫 Devconnect Main Ticket
 
-- [ ] **Get Devconnect Main Ticket** (required for World's Fair access)
+- [ ] **Get Devconnect Main Ticket** | https://tickets.devconnect.org
+  - Required for World's Fair & Social District access
   - Gives access to: Ethereum World's Fair, Coworking Space, Community Hubs
   - Nov 17-22, all days
-  - **Social District is here** (Farcaster, XMTP, ENS, etc.)
+  - **Social District is here** (Farcaster, XMTP, ENS, EFP, Zora, etc.)
 
 ---
 
