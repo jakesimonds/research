@@ -1,0 +1,310 @@
+================================================================================
+ROBERT EVANS BLUESKY QUOTE FINDER
+================================================================================
+
+Fetching profile for @iwriteok.bsky.social...
+
+Profile found:
+  Handle: @iwriteok.bsky.social
+  Display name: Robert Evans (the Only Robert Evans)
+  Total posts: 4772
+  DID: did:plc:kjixfa7wudorsmbyyfios3kp
+
+Fetching posts...
+  Page 1: 0 posts fetched so far...  Page 2: 100 posts fetched so far...  Page 3: 200 posts fetched so far...  Page 4: 300 posts fetched so far...  Page 5: 400 posts fetched so far...  Page 6: 500 posts fetched so far...  Page 7: 598 posts fetched so far...  Page 8: 697 posts fetched so far...  Page 9: 795 posts fetched so far...  Page 10: 895 posts fetched so far...  Page 11: 995 posts fetched so far...  Page 12: 1095 posts fetched so far...  Page 13: 1195 posts fetched so far...  Page 14: 1295 posts fetched so far...  Page 15: 1394 posts fetched so far...  Page 16: 1492 posts fetched so far...  Page 17: 1591 posts fetched so far...  Page 18: 1690 posts fetched so far...  Page 19: 1788 posts fetched so far...  Page 20: 1886 posts fetched so far...  Page 21: 1986 posts fetched so far...  Page 22: 2085 posts fetched so far...  Page 23: 2182 posts fetched so far...  Page 24: 2282 posts fetched so far...  Page 25: 2381 posts fetched so far...  Page 26: 2481 posts fetched so far...  Page 27: 2581 posts fetched so far...  Page 28: 2681 posts fetched so far...  Page 29: 2781 posts fetched so far...  Page 30: 2881 posts fetched so far...  Page 31: 2980 posts fetched so far...  Page 32: 3080 posts fetched so far...  Page 33: 3180 posts fetched so far...  Page 34: 3279 posts fetched so far...  Page 35: 3378 posts fetched so far...  Page 36: 3478 posts fetched so far...  Page 37: 3577 posts fetched so far...  Page 38: 3676 posts fetched so far...  Page 39: 3773 posts fetched so far...  Page 40: 3872 posts fetched so far...  Page 41: 3972 posts fetched so far...  Page 42: 4072 posts fetched so far...  Page 43: 4172 posts fetched so far...  Page 44: 4271 posts fetched so far...  Page 45: 4370 posts fetched so far...  Page 46: 4469 posts fetched so far...  Page 47: 4569 posts fetched so far...  Page 48: 4669 posts fetched so far...  Page 49: 4768 posts fetched so far...  Page 50: 4867 posts fetched so far...  Page 51: 4964 posts fetched so far...
+
+Fetched 5061 total posts
+
+Saving all posts to 'all_posts.json'...
+
+Searching for posts matching keywords...
+Found 202 posts with relevant keywords
+
+Saving matches to 'keyword_matches.json'...
+
+================================================================================
+TOP CANDIDATE POSTS
+================================================================================
+
+================================================================================
+#1 - Relevance Score: 12
+================================================================================
+Date: 2025-10-28 03:51:05 UTC
+Link: https://bsky.app/profile/iwriteok.bsky.social/post/3m47zqihgnk2j
+Engagement: 1355 likes, 29 reposts, 49 replies
+Keywords matched: addiction, addict, drug, understand
+
+Text:
+--------------------------------------------------------------------------------
+IDK, maybe I'm the asshole here. In general i find myself with much less empathy than I used to have for certain groups of people. I am a thousand times more understanding of someone who develops a drug addiction than this shit.
+--------------------------------------------------------------------------------
+
+================================================================================
+#2 - Relevance Score: 10
+================================================================================
+Date: 2025-04-19 00:10:17 UTC
+Link: https://bsky.app/profile/iwriteok.bsky.social/post/3ln4tuvplu22t
+Engagement: 7 likes, 0 reposts, 1 replies
+Keywords matched: addiction, addicted, addict, drug, drugs
+
+Text:
+--------------------------------------------------------------------------------
+nitrous is one of the safest drugs to try and do once or very occasionally but it causes INTENSE short term addiction and can be long term addicted. long term use literally dissolves your nervous system. it takes an incredible amount to do that ofc we are talking thousands and thousands of whippets
+--------------------------------------------------------------------------------
+
+================================================================================
+#3 - Relevance Score: 9
+================================================================================
+Date: 2025-05-16 01:47:56 UTC
+Link: https://bsky.app/profile/iwriteok.bsky.social/post/3lpavweb4ac22
+Engagement: 753 likes, 5 reposts, 24 replies
+Keywords matched: addiction, addict, drug, drugs
+
+Text:
+--------------------------------------------------------------------------------
+as a kid my friends and i treated our Warhammer addiction like drugs, only drugs were way cooler and might have gotten us laid.
+
+today when i make casual Warhammer references most of the people i know at least get the basics
+--------------------------------------------------------------------------------
+
+================================================================================
+#4 - Relevance Score: 8
+================================================================================
+Date: 2025-04-30 00:14:21 UTC
+Link: https://bsky.app/profile/chadloder.bsky.social/post/3lnyjabvnck2z
+Engagement: 3648 likes, 1574 reposts, 205 replies
+Keywords matched: addiction, addict, drug
+
+Text:
+--------------------------------------------------------------------------------
+RFK Jr. is ending the federal Narcan distribution program credited with the recent steep decline in overdose deaths. This despite his own past heroin addiction and his own brother dying of a drug overdose in 1984.
+--------------------------------------------------------------------------------
+
+================================================================================
+#5 - Relevance Score: 8
+================================================================================
+Date: 2025-05-19 19:38:16 UTC
+Link: https://bsky.app/profile/samtlevin.bsky.social/post/3lpkd4zz34k2j
+Engagement: 960 likes, 441 reposts, 30 replies
+Keywords matched: addiction, addict, drug
+
+Text:
+--------------------------------------------------------------------------------
+New investigation: After Oregon invested $20m for drug addiction services, counties spent the funds on prosecutors, sheriffs, police gadgets + cars.
+
+I got records revealing how law enforcement used $ meant for treatment, as providers face major cuts + patients are stuck on waiting lists to get help
+--------------------------------------------------------------------------------
+
+================================================================================
+#6 - Relevance Score: 8
+================================================================================
+Date: 2025-10-31 00:16:06 UTC
+Link: https://bsky.app/profile/iwriteok.bsky.social/post/3m4h74sqwpk2f
+Engagement: 34 likes, 1 reposts, 1 replies
+Keywords matched: addiction, addict, substance
+
+Text:
+--------------------------------------------------------------------------------
+the key to getting good at exercise is the same as the key to getting good at having a substance problem: you have to develop a life altering addiction. after that it's easy!
+--------------------------------------------------------------------------------
+
+================================================================================
+#7 - Relevance Score: 8
+================================================================================
+Date: 2025-02-25 03:20:37 UTC
+Link: https://bsky.app/profile/iwriteok.bsky.social/post/3lixvsgquoc2y
+Engagement: 1 likes, 0 reposts, 1 replies
+Keywords matched: addict, social media, facebook
+
+Text:
+--------------------------------------------------------------------------------
+I don't say it works. I think algorithmic social media is much more dangerous to society than any narcotic and the people who peddle it, the executives at companies like Facebook, should receive the kind of penalties we currently give addicts caught with dope
+--------------------------------------------------------------------------------
+
+================================================================================
+#8 - Relevance Score: 5
+================================================================================
+Date: 2025-09-20 16:12:24 UTC
+Link: https://bsky.app/profile/gelliottmorris.com/post/3lzbrh2wm522q
+Engagement: 13913 likes, 2800 reposts, 384 replies
+Keywords matched: twitter, understand
+
+Text:
+--------------------------------------------------------------------------------
+currently at record-high search interest for canceling disney plus. pulling kimmel is a bigger deal to the company's bottom line than any of the "woke" scandals of the past 5 years. i think news & entertainment corp execs need put more work into understanding their audience, & get off twitter
+--------------------------------------------------------------------------------
+
+================================================================================
+#9 - Relevance Score: 5
+================================================================================
+Date: 2025-07-22 07:42:19 UTC
+Link: https://bsky.app/profile/iwriteok.bsky.social/post/3lujyxqkb722a
+Engagement: 1506 likes, 127 reposts, 49 replies
+Keywords matched: social media, understand
+
+Text:
+--------------------------------------------------------------------------------
+it's real scary how many people's entire understanding of the past is based on a handful of clips and screengrabs from old movies they saw on social media
+--------------------------------------------------------------------------------
+
+================================================================================
+#10 - Relevance Score: 5
+================================================================================
+Date: 2025-03-18 00:42:52 UTC
+Link: https://bsky.app/profile/iwriteok.bsky.social/post/3lkmgrpjx3s2f
+Engagement: 14 likes, 2 reposts, 0 replies
+Keywords matched: drug, understand
+
+Text:
+--------------------------------------------------------------------------------
+cops understand who they exist to protect and where they stand in the power structure. fox mulder looks at a drug deal and his immediate assumption is that the aliens have crafted a new super soldier vaccine
+--------------------------------------------------------------------------------
+
+================================================================================
+#11 - Relevance Score: 3
+================================================================================
+Date: 2025-02-24 05:22:38 UTC
+Link: https://bsky.app/profile/iwriteok.bsky.social/post/3livm5pitus26
+Engagement: 4768 likes, 741 reposts, 69 replies
+Keywords matched: drug, drugs, social media
+
+Text:
+--------------------------------------------------------------------------------
+social media needs to be regulated and treated very much like we currently treat drugs. 
+
+that's long term. in the immediate term? focus on the 75% of men who aren't voting for fascists. you will have more luck reaching and organizing them than deradicalizing Andrew Tate fans.
+--------------------------------------------------------------------------------
+
+================================================================================
+#12 - Relevance Score: 3
+================================================================================
+Date: 2025-08-21 18:11:52 UTC
+Link: https://bsky.app/profile/iwriteok.bsky.social/post/3lwwk53k5sk2g
+Engagement: 1889 likes, 233 reposts, 32 replies
+Keywords matched: addicted, addict, understand
+
+Text:
+--------------------------------------------------------------------------------
+i understand why the modern tech press sucks so bad because i got started in that field around 2009-10. It was like freebasing techno-optimism. Every month new tools were announced and every year they got better at doing stuff you actually wanted them doing.
+
+People got addicted to that high.
+--------------------------------------------------------------------------------
+
+================================================================================
+#13 - Relevance Score: 2
+================================================================================
+Date: 2025-09-12 16:57:56 UTC
+Link: https://bsky.app/profile/iwriteok.bsky.social/post/3lynqb4wvjs2y
+Engagement: 5213 likes, 1034 reposts, 62 replies
+Keywords matched: understand, don't understand
+
+Text:
+--------------------------------------------------------------------------------
+we passed this point long ago. the Christchurch shooter murdered more than 50 people for the memes. if you don't realize that was part of the point for him you don't understand this stuff.
+--------------------------------------------------------------------------------
+
+================================================================================
+#14 - Relevance Score: 2
+================================================================================
+Date: 2025-08-09 21:18:34 UTC
+Link: https://bsky.app/profile/iwriteok.bsky.social/post/3lvyoxulfxc24
+Engagement: 3114 likes, 573 reposts, 53 replies
+Keywords matched: understand, don't understand
+
+Text:
+--------------------------------------------------------------------------------
+one of the great tragedies of our age is how many people are willing to view AI as magic because they don't understand how it functions but unwilling to exhibit any humility at all towards more important things they understand even less (like the climate or medicine)
+--------------------------------------------------------------------------------
+
+================================================================================
+#15 - Relevance Score: 2
+================================================================================
+Date: 2025-06-14 09:20:36 UTC
+Link: https://bsky.app/profile/iwriteok.bsky.social/post/3lrkmqj5dzc2y
+Engagement: 2741 likes, 205 reposts, 26 replies
+Keywords matched: drug, drugs
+
+Text:
+--------------------------------------------------------------------------------
+as long as the drugs are ok, i think i can forgive this
+--------------------------------------------------------------------------------
+
+================================================================================
+#16 - Relevance Score: 2
+================================================================================
+Date: 2025-10-06 05:23:37 UTC
+Link: https://bsky.app/profile/iwriteok.bsky.social/post/3m2iunpb4522d
+Engagement: 2297 likes, 369 reposts, 24 replies
+Keywords matched: addicted, addict
+
+Text:
+--------------------------------------------------------------------------------
+with Portland there's the depressing addendum that 90% of why this is happening is the right wing media grifter ecosystem got badly addicted to viral Portland content during the Trump years and they've been fiending for another hit ever since
+--------------------------------------------------------------------------------
+
+================================================================================
+#17 - Relevance Score: 2
+================================================================================
+Date: 2025-06-12 05:19:58 UTC
+Link: https://bsky.app/profile/iwriteok.bsky.social/post/3lrf6eesuwc2t
+Engagement: 2018 likes, 749 reposts, 51 replies
+Keywords matched: social media, facebook
+
+Text:
+--------------------------------------------------------------------------------
+do not install any app from Facebook or Meta on any device. Ideally avoid installing ANY social media app. Login through a browser.
+
+I highly doubt Facebook is the only company pulling this shit
+
+www.zeropartydata.es/p/localhost-...
+--------------------------------------------------------------------------------
+
+================================================================================
+#18 - Relevance Score: 2
+================================================================================
+Date: 2025-08-28 18:54:12 UTC
+Link: https://bsky.app/profile/iwriteok.bsky.social/post/3lxi7r7zijk2m
+Engagement: 1852 likes, 357 reposts, 31 replies
+Keywords matched: drug, drugs
+
+Text:
+--------------------------------------------------------------------------------
+the people who made this thing should be treated like dealers who mix fent into drugs.
+--------------------------------------------------------------------------------
+
+================================================================================
+#19 - Relevance Score: 2
+================================================================================
+Date: 2025-11-05 05:01:19 UTC
+Link: https://bsky.app/profile/iwriteok.bsky.social/post/3m4ubfgxfds2g
+Engagement: 1438 likes, 78 reposts, 54 replies
+Keywords matched: drug, drugs
+
+Text:
+--------------------------------------------------------------------------------
+if elected President i will not dismantle our nuclear arsenal because that is apparently impossible. but i will order the creation of a national narcotics stockpile to ensure enough hard drugs for a solid bender get distributed to every American home in less than 30 minutes
+--------------------------------------------------------------------------------
+
+================================================================================
+#20 - Relevance Score: 2
+================================================================================
+Date: 2025-03-25 18:51:32 UTC
+Link: https://bsky.app/profile/iwriteok.bsky.social/post/3ll7wutprtk23
+Engagement: 1396 likes, 225 reposts, 27 replies
+Keywords matched: drug, drugs
+
+Text:
+--------------------------------------------------------------------------------
+this is adjacent to the point Erin is making but i have always believed that one major reason the war on drugs exists is that a lot of powerful people don't want the rest of us to realize that anything can be a drug
+--------------------------------------------------------------------------------
+
+================================================================================
+SUMMARY
+================================================================================
+Total posts fetched: 5061
+Posts with keywords: 202
+High relevance posts (score >= 8): 7
+
+Results saved to:
+  - all_posts.json (all 5061 posts)
+  - keyword_matches.json (202 matching posts)

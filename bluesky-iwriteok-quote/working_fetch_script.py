@@ -21,7 +21,7 @@ from typing import List, Dict, Optional
 # Configuration
 BASE_URL = "https://public.api.bsky.app/xrpc"
 HANDLE = "iwriteok.bsky.social"
-MAX_POSTS = 2000
+MAX_POSTS = 5000  # Fetch all posts (Robert Evans has ~4772)
 
 # Keywords to search for
 KEYWORDS = [
